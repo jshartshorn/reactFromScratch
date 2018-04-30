@@ -27,3 +27,6 @@ npm install --save-dev less
 # add bundle.js as outut config to webpack
 
 # add dev server info to webpack
+
+# part 2 -- add reducs and router
+npm install — save redux react-redux
